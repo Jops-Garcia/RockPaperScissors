@@ -3,8 +3,7 @@
 Este é um aplicativo simples do jogo "Pedra, Papel e Tesoura" desenvolvido em Java utilizando o Android Studio. O jogo permite que o usuário jogue contra o aplicativo e descubra quem vence.
 
 ## Capturas de Tela
-![image](https://github.com/user-attachments/assets/de7c20d2-d8f9-400e-86e6-8568e8022362)
-
+<img src="https://github.com/user-attachments/assets/de7c20d2-d8f9-400e-86e6-8568e8022362" alt="Descrição da imagem" width="200"/>
 
 ## Funcionalidades
 
